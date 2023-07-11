@@ -87,8 +87,8 @@ int main ()
         float descuento= descuento/100;
            float totalCompra= entradas*calorEntrada;
            float estadisticaVenta= toltalcompra*descuento;
-           
-
+           printf("su factura tiene el monto total de: ");
+           scanf("%f", &&estaditicaVenta);
 
      }
      return 1;
