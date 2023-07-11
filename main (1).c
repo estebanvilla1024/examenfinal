@@ -84,7 +84,10 @@ int main ()
      char estadisticaVenta, totalCompra, descuento, 
      do (estadisticaVenta= ([entradas*valorEntrada]*descuento)
      {
-        float descuento= descuento*
+        float descuento= descuento/100;
+           float totalCompra= entradas*calorEntrada;
+           float estadisticaVenta= toltalcompra*descuento;
+           
 
 
      }
